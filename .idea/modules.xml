@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Education.iml" filepath="$PROJECT_DIR$/.idea/Education.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bobocode-online-lesson/bobocode-online-lesson.iml" filepath="$PROJECT_DIR$/bobocode-online-lesson/bobocode-online-lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stepic/stepic.iml" filepath="$PROJECT_DIR$/stepic/stepic.iml" />
+    </modules>
+  </component>
+</project>
