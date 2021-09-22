@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.bobocode</groupId>
-    <artifactId>java-fundamentals-course</artifactId>
+    <artifactId>bobocode-online-lesson</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
@@ -15,16 +15,17 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-<!--    <modules>
-        <module>0-0-intro</module>
-        <module>1-0-java-basics</module>
-        <module>2-0-data-structures-and-algorithms</module>
-        <module>3-0-java-core</module>
-        <module>4-0-object-oriented-programming</module>
-        <module>5-0-functional-programming</module>
-        <module>6-0-test-driven-development</module>
-        <module>java-fundamentals-util</module>
-    </modules>-->
+    <modules>
+        <module>bobocode-online-lesson/0-0-intro</module>
+        <module>bobocode-online-lesson/0-0-0-online-lessons</module>
+        <module>bobocode-online-lesson/1-0-java-basics</module>
+        <module>bobocode-online-lesson/2-0-data-structures-and-algorithms</module>
+        <module>bobocode-online-lesson/3-0-java-core</module>
+        <module>bobocode-online-lesson/4-0-object-oriented-programming</module>
+        <module>bobocode-online-lesson/5-0-functional-programming</module>
+        <module>bobocode-online-lesson/6-0-test-driven-development</module>
+        <module>bobocode-online-lesson/java-fundamentals-util</module>
+    </modules>
 
     <dependencies>
         <dependency>
