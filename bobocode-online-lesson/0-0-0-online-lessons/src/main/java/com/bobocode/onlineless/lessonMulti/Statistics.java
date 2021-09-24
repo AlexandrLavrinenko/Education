@@ -17,7 +17,11 @@ public class Statistics {
     @SneakyThrows
     synchronized public void increment(){
         count++;
-        TimeUnit.SECONDS.sleep(10);
+        TimeUnit.SECONDS.sleep(1);
+    }
+
+    public void notSyncincrement(){
+        count++;
     }
 
     public int getCount() {
